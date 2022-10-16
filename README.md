@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peacewalker122
-- 👀 I’m interested in DSA
+- 👀 I’m interested in Backend & DBMS
 - 🌱 I’m currently learning Rust & Go
 
 <!---
