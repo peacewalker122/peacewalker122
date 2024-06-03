@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peacewalker122
-- 👀 I’m interested in Backend & DBMS
-- 🌱 I’m currently learning Rust & Go
+- 👀 I’m interested in Low Level Programming
+- 📚 I'm confident to start a project with Go,Python,Rust And C++
 
 <!---
 peacewalker122/peacewalker122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
